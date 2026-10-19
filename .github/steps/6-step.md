@@ -30,4 +30,4 @@ Answer one quick question for Mona, and she will share the final review! 🎉
 - [ ] I don't need internet to use it. 🛜
 - [ ] I can use it with any operating system. 🍎🪟🐧
 - [x] The detailed history (if I write good messages). ✨
-- [x] That I might never write `final_really.zip` ever again! 😎
+- [ ] That I might never write `final_really.zip` ever again! 😎
